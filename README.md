@@ -1,5 +1,4 @@
 # my-first-github-repository-
 Here is my GitHub repository. Let's get started with GitHub
 
-
-README.md file was just edited manually. This file was modified locally
+this line was modified manually during conflict resolution.
